@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealGameProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UnrealGameProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealGameProject\UnrealGameProject.cpp.obj"
+"D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealGameProject\UnrealGameProjectGameModeBase.cpp.obj"
+"D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealGameProject\UnrealGameProject.init.gen.cpp.obj"
+"D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealGameProject\UnrealGameProjectGameModeBase.gen.cpp.obj"
+"D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealGameProject\Default.rc2.res"
+/OUT:"D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealGameProject\UE4Editor-UnrealGameProject.lib"

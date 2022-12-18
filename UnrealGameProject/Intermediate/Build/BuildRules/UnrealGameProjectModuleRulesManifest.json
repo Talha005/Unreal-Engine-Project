@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal engine Proj\\Sample Project C++\\Unreal-Engine-Project\\UnrealGameProject\\Source\\UnrealGameProject\\UnrealGameProject.Build.cs",
+		"D:\\Unreal engine Proj\\Sample Project C++\\Unreal-Engine-Project\\UnrealGameProject\\Source\\UnrealGameProject.Target.cs",
+		"D:\\Unreal engine Proj\\Sample Project C++\\Unreal-Engine-Project\\UnrealGameProject\\Source\\UnrealGameProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

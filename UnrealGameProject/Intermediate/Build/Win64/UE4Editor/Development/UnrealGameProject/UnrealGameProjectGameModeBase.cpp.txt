@@ -1,0 +1,7 @@
+D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UE4Editor\Development\UnrealGameProject\Definitions.UnrealGameProject.h
+d:\unreal engine proj\sample project c++\unreal-engine-project\unrealgameproject\source\unrealgameproject\UnrealGameProjectGameModeBase.h
+D:\Unreal4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal engine Proj\Sample Project C++\Unreal-Engine-Project\UnrealGameProject\Intermediate\Build\Win64\UE4Editor\Inc\UnrealGameProject\UnrealGameProjectGameModeBase.generated.h
